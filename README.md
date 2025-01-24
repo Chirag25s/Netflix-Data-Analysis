@@ -26,5 +26,12 @@ Streamlining content lengths optimizes viewer satisfaction.
 ### Informed Decision-Making
 Data-backed insights enable targeted investments and competitive positioning.
 
-## Thanking you
-Thank you for exploring this presentation on Netflix data analysis. Your interest and engagement are invaluable as we continue to uncover the transformative potential of data-driven insights.
+---
+
+## Let's Connect!
+If this project resonates with you and you'd like to collaborate or hire me for a **Data Analyst** role, don't hesitate to reach out!  
+- **LinkedIn**: [https://www.linkedin.com/in/chirag2501/](https://www.linkedin.com/in/chirag2501/) 
+- **Portfolio**: [https://mavenanalytics.io/profile/chirag25s](https://mavenanalytics.io/profile/chirag25s)  
+- **Email**: [c.sharma251201@gmail.com](https://mail.google.com/mail/u/1/?ogbl#inbox?compose=DmwnWtVcJrrhwBNnwDXdxfjPvCRRxhhcpQrRRNmQGTvwgrMJmmcpPfBFvThWBQJbrJrXkXPLhZjb)
+
+Thank you for reading, and I hope to hear from you soon! 😊
